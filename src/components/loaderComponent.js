@@ -149,12 +149,12 @@ export class LoaderComponent extends LitElement {
 
       <div class="burgers">
         <img
-          src="dist/assets/burguer_1.png "
+          src="src/assets/burguer_1.png "
           class="burguer1"
           alt="burgerlogo1"
         />
         <img
-          src="dist/assets/burguer_2.png "
+          src="src/assets/burguer_2.png "
           class="burguer2"
           alt="burgerlogo2"
         />
